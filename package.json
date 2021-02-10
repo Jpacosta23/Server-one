@@ -1,0 +1,20 @@
+{
+  "name": "Server-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jpacosta23/Server-one.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jpacosta23/Server-one/issues"
+  },
+  "homepage": "https://github.com/Jpacosta23/Server-one#readme"
+}
